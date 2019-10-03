@@ -1,6 +1,5 @@
 // This is a simple code for students who wants to learn C++. 
 // This program prints out Hello World on the console screen. 
-
 // header file that is needed to for cin and cout 
 
 #include <iostream> 
@@ -11,7 +10,8 @@ using namesapace std;
 int main()
 {
   // simple output statement that will print out Hello World on the screen
-    cout <<"Hello World!!" 
+    cout <<"Hello World!!"<<endl; 
+    cout <<"My name is Charles"<<endl; 
   
     return 0; 
 }
